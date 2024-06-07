@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ./imgaes
+---
+
 # Study_GDUT
 ### 简介
 
@@ -5,11 +9,26 @@
 
 希望在剩下几周时间内，大家可以认真复习👍，❌拒绝摆烂
 
+### 使用
+
+* 第一次食用的话要现在本地克隆
+
+```linux
+git clone https://github.com/CodeGrindstone/Study_GDUT.git
+```
+
+* 克隆后，再命令行输入git pull就好啦
+
+![image-20240607170351486](imgaes/image-20240607170351486.png)
+
 
 
 ### 待办事项
 
-+ [ ] ==算法设计==历史作业与答案
++ [x] 算法设计历史作业与答案
++ [x] 操作系统考试范围
++ [ ] 计算机网络考试范围
++ [ ] 计算机组成原理考试范围
 
 
 
